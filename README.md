@@ -17,6 +17,7 @@ The main goal is to transform raw performance data into visual and actionable in
 * **Back-end & Database:** Xano (No-Code Platform / REST APIs)
 * **API Integration:** Requests
 * **Development Tools:** Watchdog (for hot-reloading during development)
+* **IA tool:** Open Spec
 
 ## 📦 Dependencies
 
